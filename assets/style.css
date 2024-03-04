@@ -2,28 +2,28 @@
       font-family: "laica";
       src:
         local("laica"),
-        url("./fonts/ABCLaicaMono-Medium-Trial.otf") format("opentype") tech(color-COLRv1),
+        url("./fonts/ABCLaicaMono-Medium-Trial.otf")
   }
 
   @font-face {
   font-family: "laica-bold";
   src:
     local("louize"),
-    url("./fonts/LouizeDisplayTrial-Medium.otf") format("opentype") tech(color-COLRv1);
+    url("./fonts/LouizeDisplayTrial-Medium.otf")
   }
 
   @font-face {
     font-family: "laica-book";
     src:
       local("laica-book"),
-      url("./fonts/ABCLaicaMono-Book-Trial.otf") format("opentype") tech(color-COLRv1);
+      url("./fonts/ABCLaicaMono-Book-Trial.otf")
     }
 
     @font-face {
         font-family: "laica-regular";
         src:
           local("laica-regular"),
-          url("./fonts/ABCLaicaMono-Medium-Trial.otf") format("opentype") tech(color-COLRv1);
+          url("./fonts/ABCLaicaMono-Medium-Trial.otf")
           
         }
     
