@@ -2804,6 +2804,7 @@ p {
 
 .p-nodent {
     font-size: 1.2rem;
+    font-family: laica;
 }
 
 @media (max-width:1024px) {
